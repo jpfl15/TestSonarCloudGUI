@@ -1,0 +1,15 @@
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.exe
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.deps.json
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.runtimeconfig.json
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.dll
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\bin\Debug\netcoreapp3.1\PruebaGCS.pdb
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.Form1.resources
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.AssemblyInfo.cs
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.dll
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.pdb
+C:\Users\juanp\source\repos\PruebaGCS\PruebaGCS\obj\Debug\netcoreapp3.1\PruebaGCS.genruntimeconfig.cache
